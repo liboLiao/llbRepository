@@ -1,4 +1,4 @@
-modify at win 7.
+modify at win7 after ubuntu.
 1.read me about somthing.
 	modify 1.
 	modify 3.
